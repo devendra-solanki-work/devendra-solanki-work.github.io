@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Devendra Solanki</title>
+  <desc id="desc">Profile placeholder showing the initials DS</desc>
+  <rect width="640" height="640" fill="#17201d" />
+  <circle cx="320" cy="250" r="118" fill="#c6f36b" />
+  <path d="M115 570c20-130 99-194 205-194s185 64 194 205" fill="#c6f36b" />
+  <text x="320" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="100" font-weight="700" fill="#17201d">DS</text>
+</svg>

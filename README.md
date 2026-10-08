@@ -1,20 +1,39 @@
-Most engineering teams don't have a system problem. They
-have a speed problem — the right architecture takes too long
-to design, the right code takes too long to review, and the right
-workflows take too long to build.I'm Devendra — a team lead and
-AI Agent Developer with 11+ years at Cybage Software. I design
-scalable backend systems and build AI-powered tools that get
-teams moving faster.Recently, I've gone deep on GitHub Copilot
-and agentic AI — shipping 2 production AI agents that automated
-internal workflows and accelerated developer productivity, cutting
-turnaround time from months to days.My core areas of focus:
-→ .NET architecture — design, implementation, and long-term
-maintainability → Migrations, upgrades, integrations, and scalable
-infrastructure → AI agent development — process automation and
-developer productivity tooling → GitHub Copilot adoption — handson experience accelerating engineering teams → Technical direction
-— bridging business requirements and engineering executionI'm a
-Microsoft Certified Professional (Azure Fundamentals, Azure Data
-Fundamentals) and Gold Medallist in MCA. More importantly, I've
-spent 13 years understanding both the code and the architecture
-above it — which means I design systems that engineers can
-actually build and maintain
+# Devendra Solanki — profile website
+
+A responsive, dependency-light personal website for Devendra Solanki, hosted on GitHub Pages.
+
+## Contents
+
+- `index.html` — accessible page structure and profile content
+- `styles.css` — responsive visual design and dark theme styles
+- `script.js` — theme preference and dynamic copyright year
+
+## Run locally
+
+Open `index.html` in a browser, or serve the folder with any static HTTP server. For example:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+## Publish with GitHub Pages
+
+1. Open repository **Settings → Pages**.
+2. Select **Deploy from a branch**.
+3. Select the `copilot-suggested-profile` branch and `/ (root)`.
+4. Save and open the generated Pages URL.
+
+The site is intentionally built without a framework or build step, so it works directly from GitHub Pages.
+
+## Profile source
+
+Profile content is based on the LinkedIn-exported Markdown supplied for this website. No employment history, qualifications, or achievements have been added beyond that source.
+
+## Update the site
+
+- Edit profile copy in `index.html`.
+- Adjust colors, spacing, and responsive behavior in `styles.css`.
+- Update theme behavior in `script.js`.
+- Keep personal information accurate and do not commit passwords, API keys, or other secrets.
